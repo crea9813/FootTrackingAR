@@ -1,4 +1,16 @@
-# Real-Time Semantic Segmentation in Mobile device
+# ML-Model Generator Using Real-Time Semantic Segmentation in Mobile device
+https://github.com/akirasosa/mobile-semantic-segmentation
+
+제작 과정
+```
+ 발이 나오는 영상을 통해 이미지를 추출하기
+ 추출된 이미지에서 발 부분만 마스크 처리
+ 데이터를 정리후 Real-Time Semantic Segmentation in Mobile device를 통해 모델 훈련
+ 훈련이 끝난 모델을 ML 모델로 변환 작업
+```
+
+
+## Real-Time Semantic Segmentation in Mobile device
 
 This project is an example project of semantic segmentation for mobile real-time app.
 
